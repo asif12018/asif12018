@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img align="center" alt="coding" width="400" src="https://i.postimg.cc/QN2nRQyv/1.png">
+</div>
+
 <h1 align="center">Hi 👋, I'm Asif Sheikh</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
