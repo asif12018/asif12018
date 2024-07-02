@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asif12018&label=Profile%20views&color=0e75b6&style=flat" alt="asif12018" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asif12018" alt="asif12018" /></a> </p>
+
 
 - 🌱 I’m currently learning **Frontend Development**
 
