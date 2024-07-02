@@ -18,7 +18,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mdasifsheikh-2000diu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdasifsheikh-2000diu" height="30" width="40" /></a>
+
+  <div align="center">
+  <a href="https://www.linkedin.com/in/mdasifsheikh-2000diu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:asif.request@gmail.com?subject=Subject%20Here&body=Body%20text%20here" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
