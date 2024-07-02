@@ -58,11 +58,17 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asif12018&show_icons=true&locale=en" alt="asif12018" /></p>
 </div>
 
+
+
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asif12018&" alt="asif12018" /></p>
 </div>
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/asif12018/asif12018/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
