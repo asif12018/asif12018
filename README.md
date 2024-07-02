@@ -1,10 +1,9 @@
 
-<div align="center">
-  <img align="center" alt="coding" width="400" src="https://i.postimg.cc/QN2nRQyv/1.png">
-</div>
+![logo](https://github.com/asif12018/asif12018/blob/main/1.png)
 
 <h1 align="center">Hi 👋, I'm Asif Sheikh</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<p>I have completed my frontend development course from programing hero. And ready to join an internship to take my skill into next level. I have strong foundation in frontend development. As a fresher i dont have any work experiences but i am committed to learn continuously . </p>
 
 <div align="center">
   <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -36,7 +35,24 @@
 ###
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Stats:</h3>
+
+###
+
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asif12018&" alt="asif12018" /></p>
+</div>
+
+<div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asif12018&show_icons=true&locale=en&layout=compact" alt="asif12018" /></p></div>
+
+<div align="center">
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asif12018&show_icons=true&locale=en" alt="asif12018" /></p>
+</div>
+
+
+
+<h3 align="left">Familiar Teach and Skills:</h3>
 
 
 <div align="center">
@@ -64,20 +80,11 @@
 ###
 
 
-###
-
-<div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asif12018&show_icons=true&locale=en&layout=compact" alt="asif12018" /></p></div>
-
-<div align="center">
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asif12018&show_icons=true&locale=en" alt="asif12018" /></p>
-</div>
 
 
 
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asif12018&" alt="asif12018" /></p>
-</div>
+
+
 
 <br clear="both">
 
