@@ -43,7 +43,7 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asif12018&" alt="asif12018" /></p>
 </div>
 
-<div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asif12018&show_icons=true&locale=en&layout=compact" alt="asif12018" /></p></div>
+<!-- <div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asif12018&show_icons=true&locale=en&layout=compact" alt="asif12018" /></p></div> -->
 
 <!-- <div align="center">
 
