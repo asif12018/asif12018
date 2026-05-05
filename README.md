@@ -45,10 +45,10 @@
 
 <div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asif12018&show_icons=true&locale=en&layout=compact" alt="asif12018" /></p></div>
 
-<div align="center">
+<!-- <div align="center">
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asif12018&show_icons=true&locale=en" alt="asif12018" /></p>
-</div>
+</div> -->
 
 
 
