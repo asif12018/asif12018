@@ -2,8 +2,8 @@
 ![logo](https://github.com/asif12018/asif12018/blob/main/1.png)
 
 <h1 align="center">Hi 👋, I'm Asif Sheikh</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<p>I have completed my frontend development course from programing hero. And ready to join an internship to take my skill into next level. I have strong foundation in frontend development. As a fresher i dont have any work experiences but i am committed to learn continuously . </p>
+<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<p>I have completed my full stack development course from programing hero. And ready to join an internship to take my skill into next level. I have strong foundation in full stack development. As a fresher i dont have any work experiences but i am committed to learn continuously . </p>
 
 <div align="center">
   <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 📫 How to reach me **asif.request@gmail.com**
 
