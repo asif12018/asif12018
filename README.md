@@ -88,14 +88,15 @@ databases (via Prisma), and implementing precise routing controls for secure API
 <tr>
 <td width="50%" valign="top">
 
-#### 🎬 Cinehub — Media Rating Portal
+#### 🎬 CineTube — Media Rating Portal
 
 Real-time **TMDB API** integration with dynamic routing, user reviews, search, filtering, and paginated results.
 
 <img src="https://skillicons.dev/icons?i=nextjs,tailwind,vercel&theme=dark" alt="Cinehub Tech Stack" />
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-2563eb?style=flat-square)](#)
-[![Source Code](https://img.shields.io/badge/Source%20Code-⌨-1e293b?style=flat-square)](#)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-2563eb?style=flat-square)](https://cinetube-frontend-eight.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-⌨-1e293b?style=flat-square)](https://github.com/asif12018/cinetube-frontend.git)
+
 
 </td>
 <td width="50%" valign="top">
@@ -106,8 +107,8 @@ Full-stack delivery app with custom DB schemas, cuisine filtering, price-range l
 
 <img src="https://skillicons.dev/icons?i=nodejs,postgresql,prisma&theme=dark" alt="FoodHub Tech Stack" />
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-2563eb?style=flat-square)](#)
-[![Source Code](https://img.shields.io/badge/Source%20Code-⌨-1e293b?style=flat-square)](#)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-2563eb?style=flat-square)](https://foodhub-frontend-omega.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-⌨-1e293b?style=flat-square)](https://github.com/asif12018/foodhub-frontend-beta.git)
 
 </td>
 </tr>
