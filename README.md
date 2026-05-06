@@ -1,93 +1,147 @@
+<div align="center">
 
-![logo](https://github.com/asif12018/asif12018/blob/main/1.png)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:2563eb&height=220&section=header&text=Md.%20Asif%20Sheikh&fontSize=52&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full-Stack%20Developer%20%7C%20Next.js%20%7C%20Node.js%20%7C%20PostgreSQL&descAlignY=60&descSize=17&descColor=93c5fd&animation=fadeIn)
 
-<h1 align="center">Hi 👋, I'm Asif Sheikh</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
-<p>I have completed my full stack development course from programing hero. And ready to join an internship to take my skill into next level. I have strong foundation in full stack development. As a fresher i dont have any work experiences but i am committed to learn continuously . </p>
+<br/>
+
+<a href="https://portfolio-v2-azure-chi.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-0f172a?style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/mdasifsheikh-2000diu/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:asif.request@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://drive.google.com/file/d/17XL1g3Qb2QwpzC42b5YvJNd8ub35Isf7/view">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
+</a>
+<a href="https://x.com/AsifIsl80020757">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=asif12018&label=Profile+Views&color=2563eb&style=flat-square)&nbsp;
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square)&nbsp;
+![Location](https://img.shields.io/badge/📍%20Dhaka%2C%20Bangladesh-1e293b?style=flat-square)
+
+</div>
+
+<br/>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a **Full-Stack Developer** with an Electrical Engineering background — which means I approach software the way I'd approach a circuit: clean interfaces, tight abstractions, no unnecessary complexity.
+
+I build scalable web applications from the database up, with a strong focus on **backend architecture**, relational data modeling, and secure API design.
+
+```
+→  Architecture-first mindset, shaped by EE problem-solving
+→  Relational DB design with Prisma + PostgreSQL
+→  Secure APIs with JWT, OAuth 2.0, and RBAC
+→  Clean, maintainable code — built to evolve
+```
+
+🎯 **Actively seeking** full-time opportunities to join a collaborative engineering team building high-impact products.
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+#### Frontend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,bootstrap&theme=dark&perline=8" />
+
+<br/><br/>
+
+#### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,prisma,mongodb,firebase,redis,graphql&theme=dark&perline=8" />
+
+<br/><br/>
+
+#### Auth, Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode,postman,docker,figma&theme=dark&perline=8" />
+
 </div>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asif12018&label=Profile%20views&color=0e75b6&style=flat" alt="asif12018" /> </p>
+### 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
+#### 🎬 Cinehub — Media Rating Portal
 
-- 🌱 I’m currently learning **Full Stack Development**
+Real-time **TMDB API** integration with dynamic routing, user reviews, search, filtering, and paginated results.
 
-- 📫 How to reach me **asif.request@gmail.com**
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,vercel&theme=dark" />
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17XL1g3Qb2QwpzC42b5YvJNd8ub35Isf7/view?usp=sharing](https://drive.google.com/file/d/17XL1g3Qb2QwpzC42b5YvJNd8ub35Isf7/view?usp=sharing)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-2563eb?style=flat-square)](#)
+[![Source Code](https://img.shields.io/badge/Source%20Code-⌨-1e293b?style=flat-square)](#)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+</td>
+<td width="50%" valign="top">
 
-  <div align="center">
-  <a href="https://www.linkedin.com/in/mdasifsheikh-2000diu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:asif.request@gmail.com?subject=Subject%20Here&body=Body%20text%20here" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+#### 🍔 FoodHub — Delivery Platform
 
-###
-</p>
+Full-stack delivery app with custom DB schemas, cuisine filtering, price-range logic, and JWT auth with role-based access control.
 
-<h3 align="left">Stats:</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,postgresql,prisma&theme=dark" />
 
-###
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-2563eb?style=flat-square)](#)
+[![Source Code](https://img.shields.io/badge/Source%20Code-⌨-1e293b?style=flat-square)](#)
+
+</td>
+</tr>
+</table>
+
+> 🔗 Replace the `#` placeholder links above with your actual live demo and repository URLs.
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asif12018&" alt="asif12018" /></p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asif12018&theme=tokyonight&hide_border=true" width="48%" alt="streak"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif12018&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="top langs"/>
+
 </div>
 
-<!-- <div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asif12018&show_icons=true&locale=en&layout=compact" alt="asif12018" /></p></div> -->
+---
 
-<!-- <div align="center">
+### 📈 Currently Leveling Up
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asif12018&show_icons=true&locale=en" alt="asif12018" /></p>
-</div> -->
+```diff
++ Enterprise-level Next.js architecture & server component patterns
++ Advanced PostgreSQL query optimization and indexing strategies
++ Third-party API integration and webhook design
++ Scalable CI/CD pipelines and monorepo workflows
+```
 
+---
 
-
-<h3 align="left">Familiar Teach and Skills:</h3>
-
+### 📬 Let's Connect
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+
+| 10+ Projects | 15+ Technologies | 2+ Years Building | 🟢 Open to Work |
+|:---:|:---:|:---:|:---:|
+
+<br/>
+
+> *Building for a borderless web — from Dhaka to the world.*
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer)
+
 </div>
-
-###
-
-
-
-
-
-
-
-
-<br clear="both">
-
-
-
-
