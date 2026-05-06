@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![logo](https://github.com/asif12018/asif12018/blob/main/2.png)
+![logo](https://github.com/asif12018/asif12018/blob/main/2_2.png)
 
 
 <br/>
