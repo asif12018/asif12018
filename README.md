@@ -1,29 +1,25 @@
 <div align="center">
 
-
 ![logo](https://github.com/asif12018/asif12018/blob/main/2_2.png)
 
+<br/>
 
 <br/>
 
-
-
-<br/>
-
-<a href="https://portfolio-v2-azure-chi.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-0f172a?style=for-the-badge" />
+<a href="https://portfolio-v2-azure-chi.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-0f172a?style=for-the-badge" alt="Portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/mdasifsheikh-2000diu/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/mdasifsheikh-2000diu?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:asif.request@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=asif.request@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://drive.google.com/file/d/17XL1g3Qb2QwpzC42b5YvJNd8ub35Isf7/view">
-  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
+<a href="https://drive.google.com/file/d/17XL1g3Qb2QwpzC42b5YvJNd8ub35Isf7/view" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
 </a>
-<a href="https://x.com/AsifIsl80020757">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+<a href="https://x.com/AsifIsl80020757" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
 </a>
 
 <br/><br/>
@@ -65,19 +61,19 @@ databases (via Prisma), and implementing precise routing controls for secure API
 
 #### Frontend
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,bootstrap&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,bootstrap&theme=dark&perline=8" alt="Frontend Skills" />
 
 <br/><br/>
 
 #### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,prisma,mongodb,firebase,redis,graphql&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,prisma,mongodb,firebase,redis,graphql&theme=dark&perline=8" alt="Backend Skills" />
 
 <br/><br/>
 
 #### Auth, Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode,postman,docker,figma&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode,postman,docker,figma&theme=dark&perline=8" alt="Tools & Platforms" />
 
 </div>
 
@@ -93,7 +89,7 @@ databases (via Prisma), and implementing precise routing controls for secure API
 
 Real-time **TMDB API** integration with dynamic routing, user reviews, search, filtering, and paginated results.
 
-<img src="https://skillicons.dev/icons?i=nextjs,tailwind,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,vercel&theme=dark" alt="Cinehub Tech Stack" />
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-2563eb?style=flat-square)](#)
 [![Source Code](https://img.shields.io/badge/Source%20Code-⌨-1e293b?style=flat-square)](#)
@@ -105,7 +101,7 @@ Real-time **TMDB API** integration with dynamic routing, user reviews, search, f
 
 Full-stack delivery app with custom DB schemas, cuisine filtering, price-range logic, and JWT auth with role-based access control.
 
-<img src="https://skillicons.dev/icons?i=nodejs,postgresql,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,postgresql,prisma&theme=dark" alt="FoodHub Tech Stack" />
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-2563eb?style=flat-square)](#)
 [![Source Code](https://img.shields.io/badge/Source%20Code-⌨-1e293b?style=flat-square)](#)
@@ -137,21 +133,3 @@ Full-stack delivery app with custom DB schemas, cuisine filtering, price-range l
 + Advanced PostgreSQL query optimization and indexing strategies
 + Third-party API integration and webhook design
 + Scalable CI/CD pipelines and monorepo workflows
-```
-
----
-
-### 📬 Let's Connect
-
-<div align="center">
-
-| 10+ Projects | 15+ Technologies | 2+ Years Building | 🟢 Open to Work |
-|:---:|:---:|:---:|:---:|
-
-<br/>
-
-> *Building for a borderless web — from Dhaka to the world.*
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer)
-
-</div>
