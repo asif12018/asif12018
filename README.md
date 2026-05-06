@@ -124,7 +124,7 @@ Full-stack delivery app with custom DB schemas, cuisine filtering, price-range l
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asif12018&theme=tokyonight&hide_border=true" width="48%" alt="streak"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif12018&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="top langs"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif12018&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="top langs"/> -->
 
 </div>
 
