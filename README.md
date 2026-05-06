@@ -101,7 +101,7 @@ Real-time **TMDB API** integration with dynamic routing, user reviews, search, f
 
 Full-stack delivery app with custom DB schemas, cuisine filtering, price-range logic, and JWT auth with role-based access control.
 
-<img src="[https://skillicons.dev/icons?i=nodejs,postgresql,prisma&theme=dark](https://skillicons.dev/icons?i=nodejs,postgresql,prisma&theme=dark)" alt="FoodHub Tech Stack" />
+<img src="https://skillicons.dev/icons?i=nodejs,postgresql,prisma&theme=dark" alt="FoodHub Tech Stack" />
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-2563eb?style=flat-square)](#)
 [![Source Code](https://img.shields.io/badge/Source%20Code-⌨-1e293b?style=flat-square)](#)
@@ -110,7 +110,7 @@ Full-stack delivery app with custom DB schemas, cuisine filtering, price-range l
 </tr>
 </table>
 
-
+> 🔗 Replace the `#` placeholder links above with your actual live demo and repository URLs.
 
 ---
 
@@ -118,9 +118,9 @@ Full-stack delivery app with custom DB schemas, cuisine filtering, price-range l
 
 <div align="center">
 
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=asif12018&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=asif12018&theme=tokyonight&hide_border=true)" width="48%" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asif12018&theme=tokyonight&hide_border=true" width="48%" alt="streak"/>
 &nbsp;
-<!-- <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=asif12018&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=asif12018&layout=compact&theme=tokyonight&hide_border=true)" width="40%" alt="top langs"/> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif12018&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="top langs"/> -->
 
 </div>
 
