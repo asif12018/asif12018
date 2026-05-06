@@ -39,10 +39,14 @@ I'm a **Full-Stack Developer** with an Electrical Engineering background — whi
 I build scalable web applications from the database up, with a strong focus on **backend architecture**, relational data modeling, and secure API design.
 
 ```
-- 🎯 **Career Objective:** Actively seeking opportunities to join a collaborative engineering team where I can contribute to high-impact projects and tackle complex architectural challenges.
-- 🌱 **Currently Learning & Mastering:** Deepening my expertise in **enterprise-level Next.js architectures**, advanced PostgreSQL database optimizations, and seamless third-party API integrations.
-- ⚡ **Engineering Focus:** Writing clean, scalable backend logic, designing robust relational databases (via Prisma), and implementing precise routing controls for secure APIs.
-- 🤝 **Work Philosophy:** I believe in continuous learning, writing maintainable code, and turning complex business logic into intuitive user experiences.
+- 🎯 **Career Objective:** Actively seeking opportunities to join a collaborative engineering
+ team where I can contribute to high-impact projects and tackle complex architectural challenges.
+- 🌱 **Currently Learning & Mastering:** Deepening my expertise in **enterprise-level Next.js
+ architectures**, advanced PostgreSQL database optimizations, and seamless third-party API integrations.
+- ⚡ **Engineering Focus:** Writing clean, scalable backend logic, designing robust relational
+databases (via Prisma), and implementing precise routing controls for secure APIs.
+- 🤝 **Work Philosophy:** I believe in continuous learning, writing maintainable code
+, and turning complex business logic into intuitive user experiences.
 ```
 
 🎯 **Actively seeking** full-time opportunities to join a collaborative engineering team building high-impact products.
